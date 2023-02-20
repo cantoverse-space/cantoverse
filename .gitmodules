@@ -1,0 +1,12 @@
+[submodule "cantoverse-vr-mob"]
+	path = cantoverse-vr-mob
+	url = https://github.com/cantoverse-space/cantoverse-vr-mob
+[submodule "cantoverse-webgl"]
+	path = cantoverse-webgl
+	url = https://github.com/cantoverse-space/cantoverse-webgl
+[submodule "cantoverse-contract"]
+	path = cantoverse-contract
+	url = https://github.com/cantoverse-space/cantoverse-contract
+[submodule "cantoverse-app"]
+	path = cantoverse-app
+	url = https://github.com/cantoverse-space/cantoverse-app
